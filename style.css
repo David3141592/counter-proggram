@@ -1,0 +1,19 @@
+html {
+    background-color:darkblue;
+}
+label {
+    font-size: 350px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    width: 70px;
+    height: 70px;
+    border: 1px blue;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
